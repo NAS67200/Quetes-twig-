@@ -1,0 +1,12 @@
+{
+    "name": "nassim/twig",
+    "require": {
+        "twig/twig": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Nassim",
+            "email": "nassimkechida@gmail.com"
+        }
+    ]
+}
